@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         mBSoundId = mSoundPool.load(getApplicationContext(), R.raw.note7_b, 1);
 
 
-
+      // me llegas
 
     }
 
